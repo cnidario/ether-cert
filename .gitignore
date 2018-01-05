@@ -1,0 +1,9 @@
+NOTAS.md
+setup.sh
+web/node_modules/
+web/dist/
+web/npm-debug.log*
+web/yarn-debug.log*
+web/yarn-error.log*
+web/yarn.lock
+# smart-contract/out/
